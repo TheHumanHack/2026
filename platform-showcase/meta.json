@@ -1,0 +1,14 @@
+{
+  "title": "Platform Showcase - every Reveal.js and slides.mightora.io feature",
+  "description": "A copy-and-paste template deck. Every slide demonstrates one Reveal.js or platform feature and shows the markdown that produced it. Fork it to start your own deck.",
+  "published": true,
+  "availableFrom": "2026-09-08T08:00:00Z",
+  "selfExploreFrom": "2026-09-09T12:00:00Z",
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "gradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 100%)"
+  }
+}
