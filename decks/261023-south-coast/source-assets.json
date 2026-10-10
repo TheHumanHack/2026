@@ -1,0 +1,877 @@
+{
+  "source": "Human Hack - South Coast 2026.pptx",
+  "sourceSha256": "a316e727f084d092e5a221d894ae401706ab2e60bd0d20bb2c216649857385d4",
+  "media": [
+    {
+      "source": "ppt/media/image1.png",
+      "url": "/slides/261023-south-coast/image1.png",
+      "sha256": "b84c7375f5aa8a6eec14fd6caa894ab824b89c2628ec6d78b745bc2ce7000b0d",
+      "bytes": 226636
+    },
+    {
+      "source": "ppt/media/image10.png",
+      "url": "/slides/261023-south-coast/image10.png",
+      "sha256": "e11e87d58478bb59897ce7b79d7f342b3a7ce3865496072e6066892e993a6bb4",
+      "bytes": 1207
+    },
+    {
+      "source": "ppt/media/image11.png",
+      "url": "/slides/261023-south-coast/image11.png",
+      "sha256": "d23bf332c4b8acb3b8d7866a97d6c8079db6b0b185b782c5854942b07af5d924",
+      "bytes": 330
+    },
+    {
+      "source": "ppt/media/image12.png",
+      "url": "/slides/261023-south-coast/image12.png",
+      "sha256": "773c55a5a0de69dfcd2c7400adc441affaabf1f11d372f57575ac60f773e870d",
+      "bytes": 938
+    },
+    {
+      "source": "ppt/media/image13.png",
+      "url": "/slides/261023-south-coast/image13.png",
+      "sha256": "dca0dc7089a823a57120ba58d427266e8ef6d86ec7a49fe7a9df14891994fbbd",
+      "bytes": 958
+    },
+    {
+      "source": "ppt/media/image14.png",
+      "url": "/slides/261023-south-coast/image14.png",
+      "sha256": "45a1937712cb69fe86a4bbfe5990f926368fbef944cfdea19ab74fcbf6d949c3",
+      "bytes": 643
+    },
+    {
+      "source": "ppt/media/image15.png",
+      "url": "/slides/261023-south-coast/image15.png",
+      "sha256": "e8582a4377659e4d1e2e7e839e78313cf9da333f224b5b8a2167246f1ef1438a",
+      "bytes": 727
+    },
+    {
+      "source": "ppt/media/image16.png",
+      "url": "/slides/261023-south-coast/image16.png",
+      "sha256": "4f7b08216d5f25f75185c81ee0f1c089314350f2b4b2fbfce20047c97f599b29",
+      "bytes": 741
+    },
+    {
+      "source": "ppt/media/image17.png",
+      "url": "/slides/261023-south-coast/image17.png",
+      "sha256": "bba5c38ca9241f6ee147bf5653b244db46f37c78fbc85899bbf51d36824955b3",
+      "bytes": 956
+    },
+    {
+      "source": "ppt/media/image18.png",
+      "url": "/slides/261023-south-coast/image18.png",
+      "sha256": "525b8dd127c5b3a44f76a92d96b8399ecfff11b03348c6eef4e2da3ba696662d",
+      "bytes": 51656
+    },
+    {
+      "source": "ppt/media/image19.png",
+      "url": "/slides/261023-south-coast/image19.png",
+      "sha256": "09e7e2120e2038756f2a4f5fc99572bb56a7328994d0bae586c2f35d1b5bd1a0",
+      "bytes": 826371
+    },
+    {
+      "source": "ppt/media/image2.png",
+      "url": "/slides/261023-south-coast/image2.png",
+      "sha256": "2e28d264a75793fde8719c7330ab4a0f255c744e61c480e847ac3047ad6f5273",
+      "bytes": 301763
+    },
+    {
+      "source": "ppt/media/image20.png",
+      "url": "/slides/261023-south-coast/image20.png",
+      "sha256": "24206a890645da167370cd65943bdab2cd170359966ca9a6ba9b8993a5d66f88",
+      "bytes": 674928
+    },
+    {
+      "source": "ppt/media/image21.png",
+      "url": "/slides/261023-south-coast/image21.png",
+      "sha256": "16bf01ad207b776ac2c1c53de5c224338a9ca03ab57a41b0a597bb99e8536058",
+      "bytes": 284884
+    },
+    {
+      "source": "ppt/media/image22.png",
+      "url": "/slides/261023-south-coast/image22.png",
+      "sha256": "7fc0f1df6bad77d848b71cf0ec0f23015f0ea79b09fbe23a5040dedbe2ddf383",
+      "bytes": 1099479
+    },
+    {
+      "source": "ppt/media/image23.png",
+      "url": "/slides/261023-south-coast/image23.png",
+      "sha256": "085e69168ff6492587d98868ac0d195d120b74af091f1f424e336796345c9d98",
+      "bytes": 4069
+    },
+    {
+      "source": "ppt/media/image24.png",
+      "url": "/slides/261023-south-coast/image24.png",
+      "sha256": "21ae112f297eb155ad809b013a4438e2ff022de4ccbc437c8f2f9e93f55bedb7",
+      "bytes": 1378
+    },
+    {
+      "source": "ppt/media/image25.png",
+      "url": "/slides/261023-south-coast/image25.png",
+      "sha256": "1b2ef2afc2d9ca97b8c8ba1d140c68157a30c726b818444e5fb1c07b5a89a8b4",
+      "bytes": 1219
+    },
+    {
+      "source": "ppt/media/image26.png",
+      "url": "/slides/261023-south-coast/image26.png",
+      "sha256": "e520ad8b80aa72d6443e24a0074a211fcd7bcc7054cdb892779dea9eeca74882",
+      "bytes": 1668
+    },
+    {
+      "source": "ppt/media/image27.png",
+      "url": "/slides/261023-south-coast/image27.png",
+      "sha256": "41f5dcec8ef7d9eeb9df1585264b38a71c1b45d69a6ae1f6b4779c877a7a9461",
+      "bytes": 13859
+    },
+    {
+      "source": "ppt/media/image28.png",
+      "url": "/slides/261023-south-coast/image28.png",
+      "sha256": "4ff00a7bacd2e03315dcf1fccf9ad3bb6b888496f5535c2ca5982d6f5ca27e71",
+      "bytes": 12877
+    },
+    {
+      "source": "ppt/media/image29.jpeg",
+      "url": "/slides/261023-south-coast/image29.jpeg",
+      "sha256": "225e5ccdd33b7e4ee15b68cc21cd6316b2593ede43d3decc688a3e1e7de8dc49",
+      "bytes": 3869
+    },
+    {
+      "source": "ppt/media/image3.png",
+      "url": "/slides/261023-south-coast/image3.png",
+      "sha256": "4c16c922aa7238388c95970dfcf8b4355264d97b6347c1e427463318aa87f3fd",
+      "bytes": 1467
+    },
+    {
+      "source": "ppt/media/image30.png",
+      "url": "/slides/261023-south-coast/image30.png",
+      "sha256": "8c09b3a4f7c9b227e0f88ddaf919b7568eb7ae62c116a842a14c5cd968077ce9",
+      "bytes": 12386
+    },
+    {
+      "source": "ppt/media/image31.png",
+      "url": "/slides/261023-south-coast/image31.png",
+      "sha256": "8c95a46360b48caefe94f5a945b02f7fdb14a54ff6bc4fc6d37205318191e03e",
+      "bytes": 95701
+    },
+    {
+      "source": "ppt/media/image32.png",
+      "url": "/slides/261023-south-coast/image32.png",
+      "sha256": "6004179d138118a94c55768bb91885a480c8dda55e7413c55ea9fc85a36c0893",
+      "bytes": 6455
+    },
+    {
+      "source": "ppt/media/image33.jpeg",
+      "url": "/slides/261023-south-coast/image33.jpeg",
+      "sha256": "f288f78fae786930395ac531276c5676e1d18613402e3eed20d98fbf67fd7cb6",
+      "bytes": 29282
+    },
+    {
+      "source": "ppt/media/image34.png",
+      "url": "/slides/261023-south-coast/image34.png",
+      "sha256": "2130d2d898ff478113908185452fa24e091c616f7f4038ff3b2b0586d8bd1fd1",
+      "bytes": 8539
+    },
+    {
+      "source": "ppt/media/image35.png",
+      "url": "/slides/261023-south-coast/image35.png",
+      "sha256": "af7c513c72c70e64a361f0d1c4a52340f2d6c7279ebe53cc046954affcd0095c",
+      "bytes": 328654
+    },
+    {
+      "source": "ppt/media/image36.png",
+      "url": "/slides/261023-south-coast/image36.png",
+      "sha256": "7d63774df9b3438c907277f7bbd5bf71d5f83b121b0d1e518ee4290b4d95b416",
+      "bytes": 28606
+    },
+    {
+      "source": "ppt/media/image37.png",
+      "url": "/slides/261023-south-coast/image37.png",
+      "sha256": "57d138d4c2544205fcd8e46b8a8f15238ea3a49771b01f540a6a0582ba5ed48f",
+      "bytes": 56542
+    },
+    {
+      "source": "ppt/media/image38.png",
+      "url": "/slides/261023-south-coast/image38.png",
+      "sha256": "41f5dcec8ef7d9eeb9df1585264b38a71c1b45d69a6ae1f6b4779c877a7a9461",
+      "bytes": 13859
+    },
+    {
+      "source": "ppt/media/image39.jpeg",
+      "url": "/slides/261023-south-coast/image39.jpeg",
+      "sha256": "b65dead713dd1ddc16237efa0dcd1f57767a382be45ddf2999d0c09b1cbfe274",
+      "bytes": 1105980
+    },
+    {
+      "source": "ppt/media/image4.png",
+      "url": "/slides/261023-south-coast/image4.png",
+      "sha256": "0cde206d2c21ca88e047a9a803337039da9a6de5166bf1f9d6934fb362f63e8e",
+      "bytes": 381
+    },
+    {
+      "source": "ppt/media/image40.png",
+      "url": "/slides/261023-south-coast/image40.png",
+      "sha256": "4016596e466dc14e7f497f5dc4350a21280dc42760031ff65d020ef936a001dc",
+      "bytes": 23729
+    },
+    {
+      "source": "ppt/media/image41.png",
+      "url": "/slides/261023-south-coast/image41.png",
+      "sha256": "e4e08d68ff60f0fd6cf91444dc34ed2ea0354e93ce52df8d34772cf92c7cfa4a",
+      "bytes": 13403
+    },
+    {
+      "source": "ppt/media/image42.jpeg",
+      "url": "/slides/261023-south-coast/image42.jpeg",
+      "sha256": "5d8097512cf99707a38766a278133707d256542cf8870276a92050a879b07709",
+      "bytes": 22774
+    },
+    {
+      "source": "ppt/media/image43.jpeg",
+      "url": "/slides/261023-south-coast/image43.jpeg",
+      "sha256": "dc14ff5d2cd5cc9ac9a57ae9644906e61865dab998269b237a355ca7afa9b84f",
+      "bytes": 81424
+    },
+    {
+      "source": "ppt/media/image44.png",
+      "url": "/slides/261023-south-coast/image44.png",
+      "sha256": "fe920b179ef03d6fa1e8901d68e31f5e892f73aa98a2d0da8198dc026f11f2e0",
+      "bytes": 1661663
+    },
+    {
+      "source": "ppt/media/image45.png",
+      "url": "/slides/261023-south-coast/image45.png",
+      "sha256": "3bacb5a8c659063425677e8045c2ba6eaec17434552ba85ffb8d5c9c4e5d2280",
+      "bytes": 17686
+    },
+    {
+      "source": "ppt/media/image46.jpeg",
+      "url": "/slides/261023-south-coast/image46.jpeg",
+      "sha256": "5c1aff1a66b6c49d76793f2197d24f4007d47793dee399a15ed7531480c57d66",
+      "bytes": 29291
+    },
+    {
+      "source": "ppt/media/image47.png",
+      "url": "/slides/261023-south-coast/image47.png",
+      "sha256": "615b8357b32506338d515e9c1b95edd82c3d19679d272fa58cf4752ecce0d357",
+      "bytes": 2424588
+    },
+    {
+      "source": "ppt/media/image48.png",
+      "url": "/slides/261023-south-coast/image48.png",
+      "sha256": "5e4b18fb879ce8e5941fde842eef0e41fdfbefd13bac6cf915e31c195baf1bb8",
+      "bytes": 140236
+    },
+    {
+      "source": "ppt/media/image49.jpeg",
+      "url": "/slides/261023-south-coast/image49.jpeg",
+      "sha256": "53e12d440d799fca81589daa6e39d22fc162f2efc7cfeaeeb59ac818b7952352",
+      "bytes": 99165
+    },
+    {
+      "source": "ppt/media/image5.png",
+      "url": "/slides/261023-south-coast/image5.png",
+      "sha256": "de5730550c71a5dbb9578173c577cfb9334ba1f52fb6474fb7f18b714ff37dff",
+      "bytes": 399
+    },
+    {
+      "source": "ppt/media/image50.png",
+      "url": "/slides/261023-south-coast/image50.png",
+      "sha256": "354dc72df9555c6668b53a78a990035af7647c62643428c5e5a50b028b3e0a60",
+      "bytes": 67554
+    },
+    {
+      "source": "ppt/media/image51.jpeg",
+      "url": "/slides/261023-south-coast/image51.jpeg",
+      "sha256": "943f91a4c8917a422743b069da4a178b6fd11185d513ca06cadec73059870c1a",
+      "bytes": 93196
+    },
+    {
+      "source": "ppt/media/image52.jpeg",
+      "url": "/slides/261023-south-coast/image52.jpeg",
+      "sha256": "502b75e4b734c6ba9fdf9c165c13925242b6d00161cbe243e5d13dccc17c11d5",
+      "bytes": 382754
+    },
+    {
+      "source": "ppt/media/image53.png",
+      "url": "/slides/261023-south-coast/image53.png",
+      "sha256": "9e5a62ab0e36ac3bd4c333643dfc38dda8e5bb37e149afc3dce7023f5c54a251",
+      "bytes": 95893
+    },
+    {
+      "source": "ppt/media/image54.png",
+      "url": "/slides/261023-south-coast/image54.png",
+      "sha256": "048b61ad39d0432b598d03ada335af47e48ae8f08513be98814308ec0b7a1adb",
+      "bytes": 33481
+    },
+    {
+      "source": "ppt/media/image6.png",
+      "url": "/slides/261023-south-coast/image6.png",
+      "sha256": "b05562b9e4bcb5d980db000423f6dc0625c35dee2c208cd762b4b2b70e7c9227",
+      "bytes": 378
+    },
+    {
+      "source": "ppt/media/image7.png",
+      "url": "/slides/261023-south-coast/image7.png",
+      "sha256": "b4cacd0d033fa0edc9609d3ddc33c76f3f2a9ee7367df977749d050e4e44aeb6",
+      "bytes": 2011
+    },
+    {
+      "source": "ppt/media/image8.png",
+      "url": "/slides/261023-south-coast/image8.png",
+      "sha256": "3a72c65f57ce1ba43bc0f741c21bd3051a2e4df0fff1c1217811d69bf32bec76",
+      "bytes": 1023
+    },
+    {
+      "source": "ppt/media/image9.png",
+      "url": "/slides/261023-south-coast/image9.png",
+      "sha256": "10e6ccbbac65eb066403ddacbd549bf6201df93fa0d1ebf668843ce145d25471",
+      "bytes": 547
+    },
+    {
+      "source": "ppt/media/media1.mp4",
+      "url": "/slides/261023-south-coast/media1.mp4",
+      "sha256": "5410bbca848fce0eaaead6ed68a2c006fa9da68989adb2703cf5ffebad54ba82",
+      "bytes": 9649622
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "part": "ppt/slides/slide1.xml",
+      "title": "Human Hack: The Future of Consulting Culture",
+      "notes": [],
+      "text": [
+        "Human Hack:",
+        "The Future of Consulting Culture",
+        "Dan Barber // Areti Iles // Ian Tweedie"
+      ]
+    },
+    {
+      "number": 2,
+      "part": "ppt/slides/slide2.xml",
+      "title": "THANK   YOU TO   OUR   SPONSORS",
+      "notes": [],
+      "text": [
+        "THANK",
+        " ",
+        "YOU",
+        "TO",
+        " ",
+        "OUR",
+        " ",
+        "SPONSORS",
+        "SOUTH ",
+        "COAST",
+        " USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 3,
+      "part": "ppt/slides/slide3.xml",
+      "title": "Contributors",
+      "notes": [],
+      "text": [
+        "Contributors",
+        "Dan Barber",
+        "Founder & Lead Consultant // ",
+        "Strathos",
+        "I bring unbiased, expert strategic leadership to grow Microsoft partners and tech-driven businesses by asking the tough questions, independent observation and driving change, so they can scale with confidence.​",
+        "Partner Growth & Advisory",
+        "AI Adoption",
+        "AI Business Applications",
+        "Dual MVP M365 Copilot & Biz Apps x 4 years",
+        "Focus",
+        "Awards",
+        "Connect",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 4,
+      "part": "ppt/slides/slide4.xml",
+      "title": "Contributors",
+      "notes": [],
+      "text": [
+        "Contributors",
+        "Areti Iles",
+        "Technology Director // Telefonica Tech",
+        "AI Business Applications",
+        "AI Compliance",
+        "AI Adoption",
+        "Microsoft MVP x2",
+        "BizApps",
+        " Evangelist 2025",
+        "Community Hero 2024",
+        "Focus",
+        "Awards",
+        "Connect",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 5,
+      "part": "ppt/slides/slide5.xml",
+      "title": "Contributors",
+      "notes": [],
+      "text": [
+        "Contributors",
+        "Ian Tweedie",
+        "Senior Solution Architect // Capgemini",
+        "I bring strategic and technical leadership to complex digital transformation, helping organisations get more from Microsoft Power Platform by challenging assumptions, simplifying complexity and connecting technology decisions to real business outcomes.",
+        "Delivery in Enterprise",
+        "Complex Architecture ",
+        "Integrations",
+        "Dynamite Tech Awards, Peoples Choice 2025",
+        "BizApps",
+        " Evangelist 2026",
+        "Focus",
+        "Awards",
+        "Connect",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 6,
+      "part": "ppt/slides/slide6.xml",
+      "title": "Fireplace With Fire",
+      "notes": [],
+      "text": []
+    },
+    {
+      "number": 7,
+      "part": "ppt/slides/slide7.xml",
+      "title": "Slide 7",
+      "notes": [],
+      "text": [
+        "Discussion topics",
+        "Delivery constraints",
+        "Rapport",
+        "Consulting mindset",
+        "Elastic leadership",
+        "Situational leadership",
+        "Competence and confidence",
+        "Passion and requirement",
+        "Motivation",
+        "Conflict management",
+        "Closing thoughts",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 8,
+      "part": "ppt/slides/slide8.xml",
+      "title": "Slide 8",
+      "notes": [],
+      "text": [
+        "Scope, cost, time and quality",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 9,
+      "part": "ppt/slides/slide9.xml",
+      "title": "Slide 9",
+      "notes": [],
+      "text": [
+        "Rapport pyramid",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 10,
+      "part": "ppt/slides/slide10.xml",
+      "title": "Mercenary Vs Missionary",
+      "notes": [],
+      "text": [
+        "MISSIONARY",
+        "Purpose-first mindset",
+        "Long-term partnerships",
+        "Client empowerment",
+        "Challenging assumptions",
+        "Value creation",
+        "Human-centric engagement",
+        "MERCENARY",
+        "Transactional relationships",
+        "Short-term wins",
+        "Order-taking",
+        "Metric driven decisions",
+        "Minimal challenge to the client",
+        "Output over outcomes",
+        "Mercenary Vs Missionary",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 11,
+      "part": "ppt/slides/slide11.xml",
+      "title": "Decisions shift with context",
+      "notes": [
+        "Each dot is a decision — context shifts where it lands.",
+        "The stance is fluid — not a fixed identity."
+      ],
+      "text": [
+        "Decisions shift with context",
+        "Each dot is a decision — context shifts where it lands.",
+        "MERCENARY",
+        "reward-led",
+        "MISSIONARY",
+        "purpose-led",
+        "The stance is fluid — not a fixed identity.",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 12,
+      "part": "ppt/slides/slide12.xml",
+      "title": "Decisions shift with context",
+      "notes": [
+        "Each dot is a decision — context shifts where it lands.",
+        "The stance is fluid — not a fixed identity."
+      ],
+      "text": [
+        "Decisions shift with context",
+        "Each dot is a decision — context shifts where it lands.",
+        "MERCENARY",
+        "reward-led",
+        "MISSIONARY",
+        "purpose-led",
+        "The stance is fluid — not a fixed identity.",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 13,
+      "part": "ppt/slides/slide13.xml",
+      "title": "Effort follows purpose and ownership",
+      "notes": [
+        "Consultants move by situation, each dot is a moment, not a fixed identity.",
+        "The same consultant can move around the map as purpose, autonomy and incentives change."
+      ],
+      "text": [
+        "Effort follows purpose and ownership",
+        "Consultants move by situation, each dot is a moment, not a fixed identity.",
+        "DISCRETIONARY OWNERSHIP",
+        "MINIMUM COMPLIANCE",
+        "MERCENARY",
+        "reward-led",
+        "MISSIONARY",
+        "purpose-led",
+        "EFFORT FOR REWARD",
+        "EFFORT FOR IMPACT",
+        "BARE MINIMUM",
+        "BELIEF, BUT CONSTRAINED",
+        "Outcome aligns with values",
+        "The same consultant can move around the map as purpose, autonomy and incentives change.",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 14,
+      "part": "ppt/slides/slide14.xml",
+      "title": "Effort follows purpose and ownership",
+      "notes": [
+        "Consultants move by situation — each dot is a moment, not a fixed identity.",
+        "The same consultant can move around the map as purpose, autonomy and incentives change."
+      ],
+      "text": [
+        "Effort follows purpose and ownership",
+        "Consultants move by situation — each dot is a moment, not a fixed identity.",
+        "DISCRETIONARY OWNERSHIP",
+        "MINIMUM COMPLIANCE",
+        "MERCENARY",
+        "reward-led",
+        "MISSIONARY",
+        "purpose-led",
+        "EFFORT FOR REWARD",
+        "EFFORT FOR IMPACT",
+        "BARE MINIMUM",
+        "BELIEF, BUT CONSTRAINED",
+        "Bonus or promotion",
+        "Boss's vanity project",
+        "Protect the client",
+        "Outcome aligns with values",
+        "Purpose clear, autonomy low",
+        "The same consultant can move around the map as purpose, autonomy and incentives change.",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 15,
+      "part": "ppt/slides/slide15.xml",
+      "title": "Elastic Leadership",
+      "notes": [
+        "Leadership style changes as team capability grows.",
+        "Control gives way to coaching, then facilitation."
+      ],
+      "text": [
+        "Elastic Leadership",
+        "Leadership style changes as team capability grows.",
+        "1",
+        "SURVIVAL MODE",
+        "Command style",
+        "2",
+        "LEARNING MODE",
+        "Coach",
+        "3",
+        "SELF-ORGANIZING",
+        "Facilitator",
+        "Control gives way to coaching, then facilitation.",
+        "Source: Roy Osherove, Elastic Leadership: Growing Self-Organizing Teams",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 16,
+      "part": "ppt/slides/slide16.xml",
+      "title": "Self-organization is built in stages",
+      "notes": [
+        "Stabilize the system first; then distribute decisions and build capability."
+      ],
+      "text": [
+        "Self-organization is built in stages",
+        "Stabilize the system first; then distribute decisions and build capability.",
+        "1",
+        "SURVIVAL MODE",
+        "2",
+        "LEARNING MODE",
+        "3",
+        "SELF-ORGANIZING",
+        "SURVIVAL → LEARNING",
+        "LEARNING → SELF-ORGANIZING",
+        "Make work visible",
+        "WIP limits  •  Fix-the-build  •  Code review  •  Small batches",
+        "Run a stabilization sprint",
+        "Stop-the-line  •  Reduce WIP  •  Reinstate hard constraints",
+        "Delegate decisions (RACI)",
+        "Define guardrails  •  Outcomes  •  Rotating ownership",
+        "Add coaching for new tech or capability gaps",
+        "Pairing  •  Learning cadence",
+        "Source: Roy Osherove, Elastic Leadership: Growing Self-Organizing Teams",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 17,
+      "part": "ppt/slides/slide17.xml",
+      "title": "Slide 17",
+      "notes": [],
+      "text": [
+        "Situational leadership",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 18,
+      "part": "ppt/slides/slide18.xml",
+      "title": "Slide 18",
+      "notes": [],
+      "text": [
+        "Dunning–Kruger effect",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 19,
+      "part": "ppt/slides/slide19.xml",
+      "title": "Slide 19",
+      "notes": [],
+      "text": [
+        "Passion",
+        "Requirement",
+        "I do need to know",
+        "I do want to know",
+        "I don’t need to know",
+        "I do want to know",
+        "I don’t need to know",
+        "I don’t want to know",
+        "I do need to know",
+        "I don’t want to know",
+        "1",
+        "2",
+        "3",
+        "4",
+        "Passion and requirement",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 20,
+      "part": "ppt/slides/slide20.xml",
+      "title": "Slide 20",
+      "notes": [],
+      "text": [
+        "Motivation and human needs",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 21,
+      "part": "ppt/slides/slide21.xml",
+      "title": "Slide 21",
+      "notes": [],
+      "text": [
+        "Conflict management",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 22,
+      "part": "ppt/slides/slide22.xml",
+      "title": "Closing thoughts",
+      "notes": [],
+      "text": [
+        "Think, challenge and consult.",
+        "Develop human skills alongside technical skills.",
+        "Adapt leadership to the situation.",
+        "Closing thoughts",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026",
+        "Consulting mindset",
+        "Client value",
+        "Prioritise value over functionality.",
+        "Question assumptions and find the why.",
+        "Free has a cost. More is not always better.",
+        "Delivery habits",
+        "Use RAID and RAAIDD to protect delivery.",
+        "Think long term.",
+        "Treat others as you want to be treated."
+      ]
+    },
+    {
+      "number": 23,
+      "part": "ppt/slides/slide23.xml",
+      "title": "Questions & discussion",
+      "notes": [],
+      "text": [
+        "Questions & discussion",
+        "What would you change in your consulting practice?",
+        "Thank you",
+        "SOUTH COAST",
+        "USER GROUP",
+        "23",
+        "RD",
+        " OCTOBER 2026"
+      ]
+    },
+    {
+      "number": 24,
+      "part": "ppt/slides/slide24.xml",
+      "title": "Slide 24",
+      "notes": [
+        "Brand reference derived from the current South Coast User Group presentation template. Font: Krona One. Mint #1BDBB0, blue #008BEF, navy #1D2842 and white #FFFFFF are taken from editable slide and template objects. Logo artwork and footer remain inherited from the original layout/master. This is a working template reference, not an independently approved corporate brand manual."
+      ],
+      "text": [
+        "Brand guidelines",
+        "Template reference",
+        "COLOUR PALETTE",
+        "Mint",
+        "#1BDBB0",
+        "Headings",
+        "Blue",
+        "#008BEF",
+        "Accents",
+        "Navy",
+        "#1D2842",
+        "Body text",
+        "White",
+        "#FFFFFF",
+        "Content canvas",
+        "TYPOGRAPHY",
+        "Krona One",
+        "Mint headings, blue emphasis and navy body text.",
+        "Keep a clear size hierarchy and room for text to breathe.",
+        "LAYOUT & LOGOS",
+        "Use the existing slide layouts and branded footer. Keep content above the footer. Preserve logo colours and proportions."
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "url": "/slides/261023-south-coast/fonts/KronaOne-Regular.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kronaone/KronaOne-Regular.ttf",
+      "sha256": "273463916f96a4707e697e3013d955cde8154b4e6d635a55132e7a12f276534c"
+    },
+    {
+      "url": "/slides/261023-south-coast/fonts/OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kronaone/OFL.txt",
+      "sha256": "6c181f5a0045e8f414e1c232c35972ab83ea084ac44825f517ba001628d97b21"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="sc-diagram-svg" viewBox="0 0 1168 500" role="img" aria-label="Delivery constraints: scope, cost and time are connected, with quality at the centre.">
+  <title>Scope, cost, time and quality</title>
+  <g class="sc-diagram-fade" style="--sc-delay:.1s">
+    <path d="M584 88 307 397 861 397Z" fill="#EDF8FB"/>
+    <path d="M584 88 584 282 307 397Z" fill="#E0F6F0"/>
+    <path d="M584 282 861 397 307 397Z" fill="#E4F0FD"/>
+  </g>
+  <path class="sc-diagram-draw" d="M584 88 307 397 861 397Z" fill="none" stroke="#008BEF" stroke-width="4" stroke-linejoin="round" pathLength="1"/>
+  <g class="sc-diagram-draw" style="--sc-delay:.5s" fill="none" stroke="#1BDBB0" stroke-width="3" pathLength="1">
+    <path d="M584 240V141" pathLength="1"/><path d="m573 155 11-14 11 14" pathLength="1"/>
+    <path d="m545 302-139 57" pathLength="1"/><path d="m415 344-9 15 18 3" pathLength="1"/>
+    <path d="m623 302 139 57" pathLength="1"/><path d="m744 362 18-3-9-15" pathLength="1"/>
+  </g>
+  <g class="sc-diagram-stage" style="--sc-delay:.3s">
+    <circle cx="584" cy="88" r="10" fill="#1BDBB0" stroke="#FFF" stroke-width="4"/>
+    <text x="584" y="28" text-anchor="middle" class="sc-label">Scope</text>
+    <text x="584" y="55" text-anchor="middle" class="sc-detail">Features, Functionality</text>
+  </g>
+  <g class="sc-diagram-stage" style="--sc-delay:.5s">
+    <circle cx="307" cy="397" r="10" fill="#008BEF" stroke="#FFF" stroke-width="4"/>
+    <text x="220" y="426" text-anchor="middle" class="sc-label">Cost</text>
+    <text x="220" y="454" text-anchor="middle" class="sc-detail">Resources, Budget</text>
+  </g>
+  <g class="sc-diagram-stage" style="--sc-delay:.7s">
+    <circle cx="861" cy="397" r="10" fill="#008BEF" stroke="#FFF" stroke-width="4"/>
+    <text x="948" y="426" text-anchor="middle" class="sc-label">Time</text>
+    <text x="948" y="454" text-anchor="middle" class="sc-detail">Schedule</text>
+  </g>
+  <g class="sc-diagram-stage" style="--sc-delay:1s">
+    <rect x="469" y="244" width="230" height="78" rx="22" fill="#1D2842"/>
+    <rect x="483" y="315" width="202" height="7" rx="3.5" fill="#1BDBB0"/>
+    <text x="584" y="293" text-anchor="middle" class="sc-label sc-on-dark" style="font-size:27px">Quality</text>
+  </g>
+</svg>

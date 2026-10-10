@@ -1,0 +1,20 @@
+/* Editable topic SVGs. Animate only the active full-size canvas, never hub copies. */
+.reveal .slides section.sc-261023 .sc-diagram-graphic { position:absolute; left:56px; top:151px; width:1168px; height:500px; }
+.reveal .slides section.sc-261023 .sc-diagram-svg { display:block; width:100%; height:100%; overflow:visible; font-family:'Krona One','Segoe UI',sans-serif; }
+.reveal .slides section.sc-261023 .sc-diagram-svg .sc-label { fill:#1D2842; font-size:20px; }
+.reveal .slides section.sc-261023 .sc-diagram-svg .sc-detail { fill:#1D2842; font:17px 'Segoe UI',Arial,sans-serif; }
+.reveal .slides section.sc-261023 .sc-diagram-svg .sc-caption { fill:#526479; font:15px 'Segoe UI',Arial,sans-serif; }
+.reveal .slides section.sc-261023 .sc-diagram-svg .sc-on-dark { fill:#FFF; }
+.reveal .slides section.sc-261023 .sc-graphic-title p { font-size:32px !important; line-height:1.25 !important; }
+.reveal .slides section.sc-261023 .sc-graphic-title span { font-size:32px !important; color:#1BDBB0 !important; }
+.reveal .slides section.sc-261023.present > .sc-canvas:not(.sc-hub-canvas) .sc-diagram-stage { animation:sc-diagram-arrive .65s cubic-bezier(.16,1,.3,1) backwards; animation-delay:var(--sc-delay,.15s); transform-box:fill-box; transform-origin:center; }
+.reveal .slides section.sc-261023.present > .sc-canvas:not(.sc-hub-canvas) .sc-diagram-draw { stroke-dasharray:1; animation:sc-diagram-trace 1.15s cubic-bezier(.45,0,.15,1) backwards; animation-delay:var(--sc-delay,.2s); }
+.reveal .slides section.sc-261023.present > .sc-canvas:not(.sc-hub-canvas) .sc-diagram-fade { animation:sc-diagram-reveal .6s ease-out backwards; animation-delay:var(--sc-delay,.8s); }
+/* Let Reveal measure the settled SVG geometry/opacity when matching branches.
+   Matched objects use Auto-Animate; newly arriving objects keep the stagger. */
+.reveal .slides section.sc-261023 .sc-diagram-svg [data-auto-animate-target]:not([data-auto-animate-target^="unmatched"]) { animation:none !important; }
+@keyframes sc-diagram-arrive { from { opacity:0; transform:translateY(28px) scale(.96); } to { opacity:1; transform:translateY(0) scale(1); } }
+@keyframes sc-diagram-trace { from { stroke-dashoffset:1; } to { stroke-dashoffset:0; } }
+@keyframes sc-diagram-reveal { from { opacity:0; } to { opacity:1; } }
+.reveal.overview .slides section.sc-261023 .sc-diagram-svg * { animation:none !important; }
+@media (prefers-reduced-motion:reduce) { .reveal .slides section.sc-261023 .sc-diagram-svg * { animation:none !important; } }

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="sc-diagram-svg" viewBox="0 0 1168 500" role="img" aria-label="Situational leadership: directing, coaching, supporting and delegating, mapped by directive and supportive behaviour and performance readiness.">
+  <title>Situational leadership: influence behaviours and four styles</title>
+  <rect x="66" y="35" width="480" height="365" rx="20" fill="#F4F8FA"/>
+  <g fill="none" stroke="#D5E3EB" stroke-width="1.5"><path d="M306 45V395M76 220H536"/><path d="M76 132H536M76 308H536" stroke-dasharray="5 7"/></g>
+  <g class="sc-diagram-draw" stroke="#1D2842" stroke-width="2.5" fill="none"><path d="M66 35V400H546" pathLength="1"/><path d="m59 48 7-13 7 13M533 393l13 7-13 7" pathLength="1"/></g>
+  <text x="21" y="222" transform="rotate(-90 21 222)" text-anchor="middle" class="sc-detail">Supportive / Relationship behaviour</text>
+  <text x="66" y="25" class="sc-caption">High</text><text x="43" y="423" class="sc-caption">Low</text>
+  <text x="536" y="423" text-anchor="end" class="sc-caption">High</text>
+  <text x="306" y="449" text-anchor="middle" class="sc-detail">Directive / Task behaviour</text>
+  <path class="sc-diagram-draw" style="--sc-delay:.35s" d="M100 350C190 350 189 100 300 100S414 350 512 350" fill="none" stroke="#1BDBB0" stroke-width="12" stroke-linecap="round" pathLength="1"/>
+  <g class="sc-diagram-stage" style="--sc-delay:.45s"><rect x="332" y="266" width="178" height="61" rx="14" fill="#008BEF"/><text x="421" y="293" text-anchor="middle" class="sc-label sc-on-dark" style="font-size:16px">S1 · Telling</text><text x="421" y="316" text-anchor="middle" class="sc-detail sc-on-dark" style="font-size:14px">Directing</text></g>
+  <g class="sc-diagram-stage" style="--sc-delay:.6s"><rect x="332" y="139" width="178" height="61" rx="14" fill="#007CBE"/><text x="421" y="166" text-anchor="middle" class="sc-label sc-on-dark" style="font-size:16px">S2 · Selling</text><text x="421" y="189" text-anchor="middle" class="sc-detail sc-on-dark" style="font-size:14px">Coaching</text></g>
+  <g class="sc-diagram-stage" style="--sc-delay:.75s"><rect x="88" y="139" width="202" height="61" rx="14" fill="#008F80"/><text x="189" y="166" text-anchor="middle" class="sc-label sc-on-dark" style="font-size:15px">S3 · Participating</text><text x="189" y="189" text-anchor="middle" class="sc-detail sc-on-dark" style="font-size:14px">Supporting</text></g>
+  <g class="sc-diagram-stage" style="--sc-delay:.9s"><rect x="88" y="266" width="202" height="61" rx="14" fill="#1D2842"/><text x="189" y="302" text-anchor="middle" class="sc-label sc-on-dark" style="font-size:16px">S4 · Delegating</text></g>
+  <g class="sc-diagram-stage" style="--sc-delay:.45s">
+    <rect x="590" y="35" width="274" height="183" rx="18" fill="#EDF5FD"/>
+    <circle cx="621" cy="66" r="15" fill="#008BEF"/><text x="621" y="72" text-anchor="middle" class="sc-detail sc-on-dark" style="font-weight:700">1</text>
+    <text x="646" y="73" class="sc-label" style="font-size:18px">Directing</text>
+    <text x="612" y="105" class="sc-detail"><tspan x="612">High Directive, Low Supportive</tspan><tspan x="612" dy="30">Provides specific instructions</tspan><tspan x="612" dy="27">Closely supervises</tspan><tspan x="612" dy="23">performance</tspan></text>
+  </g>
+  <g class="sc-diagram-stage" style="--sc-delay:.6s">
+    <rect x="882" y="35" width="274" height="183" rx="18" fill="#E6F1FA"/>
+    <circle cx="913" cy="66" r="15" fill="#007CBE"/><text x="913" y="72" text-anchor="middle" class="sc-detail sc-on-dark" style="font-weight:700">2</text>
+    <text x="938" y="73" class="sc-label" style="font-size:18px">Coaching</text>
+    <text x="904" y="105" class="sc-detail"><tspan x="904">High Directive, High Supportive</tspan><tspan x="904" dy="30">Explains decisions</tspan><tspan x="904" dy="27">Provides support and</tspan><tspan x="904" dy="23">encouragement</tspan></text>
+  </g>
+  <g class="sc-diagram-stage" style="--sc-delay:.75s">
+    <rect x="590" y="236" width="274" height="183" rx="18" fill="#E4F7F1"/>
+    <circle cx="621" cy="267" r="15" fill="#008F80"/><text x="621" y="273" text-anchor="middle" class="sc-detail sc-on-dark" style="font-weight:700">3</text>
+    <text x="646" y="274" class="sc-label" style="font-size:18px">Supporting</text>
+    <text x="612" y="306" class="sc-detail"><tspan x="612">Low Directive, High Supportive</tspan><tspan x="612" dy="30">Facilitates and supports efforts</tspan><tspan x="612" dy="27">Shares decision-making</tspan></text>
+  </g>
+  <g class="sc-diagram-stage" style="--sc-delay:.9s">
+    <rect x="882" y="236" width="274" height="183" rx="18" fill="#F0F3F7"/>
+    <circle cx="913" cy="267" r="15" fill="#1D2842"/><text x="913" y="273" text-anchor="middle" class="sc-detail sc-on-dark" style="font-weight:700">4</text>
+    <text x="938" y="274" class="sc-label" style="font-size:18px">Delegating</text>
+    <text x="904" y="306" class="sc-detail"><tspan x="904">Low Directive, Low Supportive</tspan><tspan x="904" dy="30">Turns over responsibility</tspan><tspan x="904" dy="23">for decisions</tspan><tspan x="904" dy="27">Allows employee to act</tspan><tspan x="904" dy="23">independently</tspan></text>
+  </g>
+  <g class="sc-diagram-fade" style="--sc-delay:1.15s">
+    <text x="590" y="448" class="sc-caption">Performance readiness</text>
+    <text x="590" y="476" class="sc-detail">R4 High</text><text x="725" y="476" class="sc-detail">R3 / R2 Moderate</text><text x="1015" y="476" class="sc-detail">R1 Low</text>
+    <text x="66" y="493" class="sc-caption" style="font-size:12px">Model: Situational Leadership® · Leadership Studies, Inc.</text>
+  </g>
+</svg>

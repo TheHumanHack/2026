@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="sc-rapport-svg" viewBox="0 0 1168 500" role="img" aria-label="Rapport pyramid. From bottom to top: Polite Conversation &amp; Cliche; Facts &amp; Information; Ideas &amp; Opinions; Feelings &amp; Emotions; Authenticity &amp; Congruence; Rapport. Trust increases towards the top.">
+  <defs>
+    <linearGradient id="sc-rapport-blue" x2="1" y2="1"><stop stop-color="#008BEF"/><stop offset="1" stop-color="#0066BC"/></linearGradient>
+    <linearGradient id="sc-rapport-navy" x2="1" y2="1"><stop stop-color="#33486B"/><stop offset="1" stop-color="#1D2842"/></linearGradient>
+    <linearGradient id="sc-rapport-teal" x2="1" y2="1"><stop stop-color="#1BDBB0"/><stop offset="1" stop-color="#00AD91"/></linearGradient>
+  </defs>
+  <style>
+    .sc-rapport-svg { font-family:'Krona One','Segoe UI',Arial,sans-serif; }
+    .sc-rapport-svg .sc-rapport-label { font-size:18px; fill:#1D2842; }
+    .sc-rapport-svg .sc-rapport-number { font-size:12px; fill:#008BEF; text-anchor:middle; }
+    .sc-rapport-svg .sc-rapport-link { fill:none; stroke:#BCD5DE; stroke-width:1.5; }
+    .sc-rapport-svg .sc-rapport-dot { fill:#FFF; stroke:#BCD5DE; stroke-width:1.5; }
+  </style>
+  <ellipse cx="410" cy="461" rx="330" ry="12" fill="#1D2842" opacity=".06"/>
+  <g class="sc-rapport-tier" style="--sc-rapport-order:0">
+    <path d="M137 398H683L730 454H90Z" fill="#005B9F"/>
+    <path d="M137 390H683L730 446H90Z" fill="url(#sc-rapport-blue)"/>
+    <path d="M137 390H683" stroke="#FFF" stroke-opacity=".45" stroke-width="2"/>
+    <path class="sc-rapport-link" d="M710 418H780"/>
+    <circle class="sc-rapport-dot" cx="798" cy="418" r="17"/><text class="sc-rapport-number" x="798" y="423">01</text>
+    <text class="sc-rapport-label" x="834" y="410"><tspan x="834">Polite Conversation</tspan><tspan x="834" dy="27">&amp; Cliche</tspan></text>
+  </g>
+  <g class="sc-rapport-tier" style="--sc-rapport-order:1">
+    <path d="M185 324H635L673 378H147Z" fill="#142039"/>
+    <path d="M185 316H635L673 370H147Z" fill="url(#sc-rapport-navy)"/>
+    <path d="M185 316H635" stroke="#FFF" stroke-opacity=".3" stroke-width="2"/>
+    <path class="sc-rapport-link" d="M654 343H780"/>
+    <circle class="sc-rapport-dot" cx="798" cy="343" r="17"/><text class="sc-rapport-number" x="798" y="348">02</text>
+    <text class="sc-rapport-label" x="834" y="349">Facts &amp; Information</text>
+  </g>
+  <g class="sc-rapport-tier" style="--sc-rapport-order:2">
+    <path d="M235 250H585L622 304H198Z" fill="#005B9F"/>
+    <path d="M235 242H585L622 296H198Z" fill="url(#sc-rapport-blue)"/>
+    <path d="M235 242H585" stroke="#FFF" stroke-opacity=".45" stroke-width="2"/>
+    <path class="sc-rapport-link" d="M604 269H780"/>
+    <circle class="sc-rapport-dot" cx="798" cy="269" r="17"/><text class="sc-rapport-number" x="798" y="274">03</text>
+    <text class="sc-rapport-label" x="834" y="275">Ideas &amp; Opinions</text>
+  </g>
+  <g class="sc-rapport-tier" style="--sc-rapport-order:3">
+    <path d="M284 176H536L572 230H248Z" fill="#008E78"/>
+    <path d="M284 168H536L572 222H248Z" fill="url(#sc-rapport-teal)"/>
+    <path d="M284 168H536" stroke="#FFF" stroke-opacity=".6" stroke-width="2"/>
+    <path class="sc-rapport-link" d="M554 195H780"/>
+    <circle class="sc-rapport-dot" cx="798" cy="195" r="17"/><text class="sc-rapport-number" x="798" y="200">04</text>
+    <text class="sc-rapport-label" x="834" y="201">Feelings &amp; Emotions</text>
+  </g>
+  <g class="sc-rapport-tier" style="--sc-rapport-order:4">
+    <path d="M334 102H486L521 156H299Z" fill="#142039"/>
+    <path d="M334 94H486L521 148H299Z" fill="url(#sc-rapport-navy)"/>
+    <path d="M334 94H486" stroke="#FFF" stroke-opacity=".3" stroke-width="2"/>
+    <path class="sc-rapport-link" d="M504 121H780"/>
+    <circle class="sc-rapport-dot" cx="798" cy="121" r="17"/><text class="sc-rapport-number" x="798" y="126">05</text>
+    <text class="sc-rapport-label" x="834" y="114"><tspan x="834">Authenticity</tspan><tspan x="834" dy="27">&amp; Congruence</tspan></text>
+  </g>
+  <g class="sc-rapport-tier" style="--sc-rapport-order:5">
+    <path d="M410 12L472 82H348Z" fill="#008E78"/>
+    <path d="M410 4L472 74H348Z" fill="url(#sc-rapport-teal)"/>
+    <path d="M410 4L472 74" fill="none" stroke="#FFF" stroke-opacity=".6" stroke-width="2"/>
+    <path class="sc-rapport-link" d="M448 47H780"/>
+    <circle class="sc-rapport-dot" cx="798" cy="47" r="17"/><text class="sc-rapport-number" x="798" y="52">06</text>
+    <text class="sc-rapport-label" x="834" y="54" style="fill:#00AD91">Rapport</text>
+  </g>
+  <g class="sc-rapport-trust">
+    <path class="sc-rapport-trust-line" d="M42 426L314 55" pathLength="1" fill="none" stroke="#00AD91" stroke-width="3" stroke-linecap="round"/>
+    <path d="M295 62L314 55L313 76" fill="none" stroke="#00AD91" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(163 264) rotate(-54)"><rect x="-45" y="-21" width="90" height="34" rx="17" fill="#FFF"/><text text-anchor="middle" font-size="17" fill="#00AD91">Trust</text></g>
+  </g>
+</svg>
