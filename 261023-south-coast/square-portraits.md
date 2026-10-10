@@ -5,10 +5,10 @@ visible slide 4 use the same 236px square frame and 20px corner radius as Areti
 Iles on slide 3. Small roster portraits retain their original source images.
 The converter preserves these featured portrait selections.
 
-- Dan: `public/slides/261023-south-coast/dan-barber-square.png`.
+- Dan: `content/261023-south-coast/dan-barber-square.png`.
   The built-in imagegen tool extended the original circular photo's white
   corners into a square photo. Original `image33.jpeg` is retained.
-- Ian: `public/slides/261023-south-coast/ian-tweedie-square.jpeg`.
+- Ian: `content/261023-south-coast/ian-tweedie-square.jpeg`.
   Copied byte-for-byte from the original rectangular photograph already at
   `public/slides/260925-little-code/brand/ian-tweedie.jpeg`. Original
   `image42.jpeg` is retained.

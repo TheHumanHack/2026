@@ -1,8 +1,8 @@
 # Consulting balance illustration
 
 - Tool: built-in image generation/editing tool.
-- Original: `public/slides/261023-south-coast/image47.png` (preserved).
-- Edited asset: `public/slides/261023-south-coast/consulting-balance-blue-teal.png`.
+- Original: `content/261023-south-coast/image47.png` (preserved).
+- Edited asset: `content/261023-south-coast/consulting-balance-blue-teal.png`.
 - Used on the opening Consulting mindset slide (`#/9`, source slide 10).
 - The converter references the edited asset and continues to extract the original.
 

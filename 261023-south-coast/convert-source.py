@@ -2,7 +2,7 @@
 
 Text stays editable HTML; source images/video are extracted byte-for-byte. Shapes
 are inline SVG, including the organiser's custom logo paths. Run from any folder:
-    python decks/261023-south-coast/convert-source.py
+    python 261023-south-coast/convert-source.py
 Regeneration overwrites slides.md and source-assets.json, not meta.json.
 """
 
@@ -17,10 +17,10 @@ import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 
 HERE = Path(__file__).resolve().parent
-ROOT = HERE.parent.parent
+ROOT = HERE.parent
 SOURCE = HERE / "Human Hack - South Coast 2026.pptx"
-ASSETS = ROOT / "public/slides/261023-south-coast"
-URL = "/slides/261023-south-coast/"
+ASSETS = ROOT / "content/261023-south-coast"
+URL = "https://raw.githubusercontent.com/TheHumanHack/2026/main/content/261023-south-coast/"
 TOPIC_GRAPHICS = {
     8: "delivery-constraints.svg",      # #/7
     10: "consulting-mindsets.svg",      # #/9
@@ -352,7 +352,7 @@ STYLE = """<style>
 .reveal .slides section.sc-261023.sc-mindset .sc-mindset-role-detail--axis { top:var(--sc-axis-detail-top,344px) !important; }
 .reveal .slides section.sc-261023.sc-mindset .sc-mindset-summary { left:55.392px !important; top:582px !important; width:1120px !important; height:72px !important; }
 .reveal .slides section.sc-261023.sc-mindset .sc-mindset-summary p, .reveal .slides section.sc-261023.sc-mindset .sc-mindset-summary span { font-size:18px !important; line-height:1.35 !important; color:#1D2842 !important; }
-@font-face { font-family:'Krona One'; src:url('/slides/261023-south-coast/fonts/KronaOne-Regular.ttf') format('truetype'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face { font-family:'Krona One'; src:url('https://raw.githubusercontent.com/TheHumanHack/2026/main/content/261023-south-coast/fonts/KronaOne-Regular.ttf') format('truetype'); font-weight:400; font-style:normal; font-display:swap; }
 .reveal .slides section.sc-261023 { padding:0; width:100%; height:100%; text-align:left; }
 .reveal .slides section.sc-261023 .sc-canvas { position:absolute; width:100%; height:100%; inset:0; overflow:hidden; container-type:size; }
 .reveal .slides section.sc-261023 .sc-artboard { position:absolute; left:50%; top:50%; width:1280px; height:720px; transform-origin:center; transform:translate(-50%,-50%) scale(min(calc(100cqw / 1280px),calc(100cqh / 720px))); }
@@ -389,8 +389,8 @@ STYLE = """<style>
 .reveal .slides section.sc-261023 .sc-topic-footer { position:absolute; left:0; top:645px; width:1280px; height:75px; background:#102442; }
 .reveal .slides section.sc-261023 .sc-footer-art { position:absolute; inset:0; transform-origin:top left; transform:translateY(-299.08px) scale(.52); }
 /* Sponsor and contributor slides, plus topics, branches and discussion. */
-.reveal .slides section.sc-261023.sc-slim-footer .sc-topic-footer { top:668px; height:52px; background:#102442 url('/slides/261023-south-coast/image1.png') center / 100% 100% no-repeat; }
-.reveal .slides section.sc-261023.sc-slim-footer .sc-topic-footer::before { content:''; position:absolute; left:34.36%; top:0; width:40.15%; height:100%; background:url('/slides/261023-south-coast/image2.png') center / 100% 100% no-repeat; }
+.reveal .slides section.sc-261023.sc-slim-footer .sc-topic-footer { top:668px; height:52px; background:#102442 url('https://raw.githubusercontent.com/TheHumanHack/2026/main/content/261023-south-coast/image1.png') center / 100% 100% no-repeat; }
+.reveal .slides section.sc-261023.sc-slim-footer .sc-topic-footer::before { content:''; position:absolute; left:34.36%; top:0; width:40.15%; height:100%; background:url('https://raw.githubusercontent.com/TheHumanHack/2026/main/content/261023-south-coast/image2.png') center / 100% 100% no-repeat; }
 .reveal .slides section.sc-261023.sc-slim-footer .sc-footer-logo { position:absolute; top:50%; transform:translateY(-50%); }
 .reveal .slides section.sc-261023.sc-slim-footer .sc-footer-logo-art { position:absolute; inset:0; transform-origin:top left; }
 .reveal .slides section.sc-261023.sc-slim-footer .sc-footer-logo--south-coast { left:56px; width:135.309px; height:35.805px; }
@@ -486,7 +486,7 @@ EVENT_HEADER = (
     '<div class="sc-event-header-copy">'
     '<span class="sc-event-header-name">SOUTH COAST<br>USER GROUP</span>'
     '<span class="sc-event-header-date">23RD OCTOBER 2026</span></div>'
-    '<img class="sc-event-header-logo" src="/slides/261023-south-coast/image38.png" alt="Meetup">'
+    '<img class="sc-event-header-logo" src="https://raw.githubusercontent.com/TheHumanHack/2026/main/content/261023-south-coast/image38.png" alt="Meetup">'
     '</div>'
 )
 

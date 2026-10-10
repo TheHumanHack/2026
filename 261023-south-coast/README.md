@@ -1,8 +1,20 @@
 # Human Hack ? South Coast User Group, 23 October 2026
 
+## Published deck
+
+- Follower view: https://slides.mightora.io/r/TheHumanHack/2026/261023-south-coast/follower
+- Presenter view: https://slides.mightora.io/r/TheHumanHack/2026/261023-south-coast/presenter
+- Slide source: https://raw.githubusercontent.com/TheHumanHack/2026/main/261023-south-coast/slides.md
+- Public asset folder: https://raw.githubusercontent.com/TheHumanHack/2026/main/content/261023-south-coast/
+
+These URLs work after the repository is public and the changes are pushed to
+`main`. The `password` value in `meta.json` is an empty placeholder; do not put
+a secret there in this public repository. Presenter mode uses the platform's
+presenter password.
+
 The working deck is `slides.md`, converted from `Human Hack - South Coast 2026.pptx`.
 It uses the same Reveal.js loading, authentication, presenter, follower, speaker,
-remote and notes views as `../260925-little-code/`.
+remote and notes views demonstrated by `platform-showcase/`.
 
 All **24 slides** remain in their original order, including the sponsor slide,
 three contributor profiles, fireplace video and final brand reference. Original
@@ -13,7 +25,7 @@ white palette are retained.
 Text is editable HTML inside Markdown; vector shapes are inline SVG. Source
 coordinates are scaled to the app's 1280 ? 720 canvas and fitted into speaker
 previews. Original images and the MP4 are extracted byte-for-byte into
-`public/slides/261023-south-coast/`. `source-assets.json` records the source hash,
+`content/261023-south-coast/`. `source-assets.json` records the source hash,
 slide text, notes, media hashes and font provenance.
 
 ## Session access
@@ -135,7 +147,7 @@ the source citation stays below the graphic. The converter preserves these edits
 ### Animated SVG topic visuals
 
 The eight slides at `#/10` through `#/10/4`, `#/11`, `#/11/1` and `#/14`
-now use editable SVG assets in `public/slides/261023-south-coast/`, inlined by
+now use editable SVG assets in `content/261023-south-coast/`, inlined by
 the source converter. They share mint titles, blue/teal accents, navy labels
 and soft rounded panels:
 
@@ -167,7 +179,7 @@ fly-ins, typing animation and Auto-Animate for this deck, while keeping
 the same click/keyboard reveal sequence.
 
 [Krona One](https://github.com/google/fonts/tree/main/ofl/kronaone) is bundled
-locally with its [SIL Open Font License](../../public/slides/261023-south-coast/fonts/OFL.txt).
+locally with its [SIL Open Font License](../../content/261023-south-coast/fonts/OFL.txt).
 No external font request is needed during the talk. Browser font metrics require
 small layout adjustments to the sponsor date/header. Text remains selectable;
 slide images have descriptive alt text. Speaker previews preserve the 16:9 canvas.
@@ -179,7 +191,7 @@ remains source slide 24, as in the source.
 To rebuild from the PowerPoint, run:
 
 ```powershell
-python decks/261023-south-coast/convert-source.py
+python 261023-south-coast/convert-source.py
 ```
 
 The converter needs Python 3 and its standard library only. Regeneration
@@ -254,7 +266,7 @@ entrance in about 1.7 seconds. Re-entering the slide replays it automatically,
 without extra clicks. Hub thumbnails and the overview show the complete diagram;
 reduced motion displays it immediately.
 
-Edit `public/slides/261023-south-coast/rapport-pyramid.svg` and regenerate to
+Edit `content/261023-south-coast/rapport-pyramid.svg` and regenerate to
 update the diagram. `topic_content` in the converter embeds it, and `STYLE`
 owns its slide-entry animation. The original `image46.jpeg` remains intact.
 
@@ -274,7 +286,7 @@ Overview and topic thumbnails show complete diagrams; reduced motion disables
 the entrances. The original image files remain available, and the headings,
 speaker notes, footer and navigation remain unchanged.
 
-Edit the five SVGs and `topic-graphics.css` in `public/slides/261023-south-coast/`,
+Edit the five SVGs and `topic-graphics.css` in `content/261023-south-coast/`,
 then run the source converter. Its `TOPIC_GRAPHICS` map inlines those assets and
 the CSS into `slides.md`, preserving the replacements during regeneration.
 
